@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/electricity_pay_app/static/css/main.52623ab5.chunk.css",
+    "main.js": "/electricity_pay_app/static/js/main.b533f791.chunk.js",
+    "main.js.map": "/electricity_pay_app/static/js/main.b533f791.chunk.js.map",
+    "runtime-main.js": "/electricity_pay_app/static/js/runtime-main.5dc5070e.js",
+    "runtime-main.js.map": "/electricity_pay_app/static/js/runtime-main.5dc5070e.js.map",
+    "static/js/2.1b6baee6.chunk.js": "/electricity_pay_app/static/js/2.1b6baee6.chunk.js",
+    "static/js/2.1b6baee6.chunk.js.map": "/electricity_pay_app/static/js/2.1b6baee6.chunk.js.map",
+    "static/js/3.e61b46cf.chunk.js": "/electricity_pay_app/static/js/3.e61b46cf.chunk.js",
+    "static/js/3.e61b46cf.chunk.js.map": "/electricity_pay_app/static/js/3.e61b46cf.chunk.js.map",
+    "index.html": "/electricity_pay_app/index.html",
+    "precache-manifest.3e9563f4ca731cf3a33336687b805333.js": "/electricity_pay_app/precache-manifest.3e9563f4ca731cf3a33336687b805333.js",
+    "service-worker.js": "/electricity_pay_app/service-worker.js",
+    "static/css/main.52623ab5.chunk.css.map": "/electricity_pay_app/static/css/main.52623ab5.chunk.css.map",
+    "static/js/2.1b6baee6.chunk.js.LICENSE.txt": "/electricity_pay_app/static/js/2.1b6baee6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dc5070e.js",
+    "static/js/2.1b6baee6.chunk.js",
+    "static/css/main.52623ab5.chunk.css",
+    "static/js/main.b533f791.chunk.js"
+  ]
+}
