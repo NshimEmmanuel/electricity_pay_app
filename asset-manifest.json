@@ -1,24 +1,15 @@
 {
   "files": {
-    "main.css": "/electricity_pay_app/static/css/main.52623ab5.chunk.css",
-    "main.js": "/electricity_pay_app/static/js/main.a83accbb.chunk.js",
-    "main.js.map": "/electricity_pay_app/static/js/main.a83accbb.chunk.js.map",
-    "runtime-main.js": "/electricity_pay_app/static/js/runtime-main.5dc5070e.js",
-    "runtime-main.js.map": "/electricity_pay_app/static/js/runtime-main.5dc5070e.js.map",
-    "static/js/2.1b6baee6.chunk.js": "/electricity_pay_app/static/js/2.1b6baee6.chunk.js",
-    "static/js/2.1b6baee6.chunk.js.map": "/electricity_pay_app/static/js/2.1b6baee6.chunk.js.map",
-    "static/js/3.e61b46cf.chunk.js": "/electricity_pay_app/static/js/3.e61b46cf.chunk.js",
-    "static/js/3.e61b46cf.chunk.js.map": "/electricity_pay_app/static/js/3.e61b46cf.chunk.js.map",
+    "main.css": "/electricity_pay_app/static/css/main.33533dce.css",
+    "main.js": "/electricity_pay_app/static/js/main.47373e3e.js",
+    "static/js/453.a4eb3c8e.chunk.js": "/electricity_pay_app/static/js/453.a4eb3c8e.chunk.js",
     "index.html": "/electricity_pay_app/index.html",
-    "precache-manifest.b316fa35bc3cf30cd4e0c4592b7c34e0.js": "/electricity_pay_app/precache-manifest.b316fa35bc3cf30cd4e0c4592b7c34e0.js",
-    "service-worker.js": "/electricity_pay_app/service-worker.js",
-    "static/css/main.52623ab5.chunk.css.map": "/electricity_pay_app/static/css/main.52623ab5.chunk.css.map",
-    "static/js/2.1b6baee6.chunk.js.LICENSE.txt": "/electricity_pay_app/static/js/2.1b6baee6.chunk.js.LICENSE.txt"
+    "main.33533dce.css.map": "/electricity_pay_app/static/css/main.33533dce.css.map",
+    "main.47373e3e.js.map": "/electricity_pay_app/static/js/main.47373e3e.js.map",
+    "453.a4eb3c8e.chunk.js.map": "/electricity_pay_app/static/js/453.a4eb3c8e.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.5dc5070e.js",
-    "static/js/2.1b6baee6.chunk.js",
-    "static/css/main.52623ab5.chunk.css",
-    "static/js/main.a83accbb.chunk.js"
+    "static/css/main.33533dce.css",
+    "static/js/main.47373e3e.js"
   ]
 }
