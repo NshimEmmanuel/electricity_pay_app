@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/electricity_pay_app/static/css/main.33533dce.css",
-    "main.js": "/electricity_pay_app/static/js/main.2cb95a9a.js",
+    "main.css": "/electricity_pay_app/static/css/main.e27522ce.css",
+    "main.js": "/electricity_pay_app/static/js/main.e79cf839.js",
     "static/js/453.a4eb3c8e.chunk.js": "/electricity_pay_app/static/js/453.a4eb3c8e.chunk.js",
     "index.html": "/electricity_pay_app/index.html",
-    "main.33533dce.css.map": "/electricity_pay_app/static/css/main.33533dce.css.map",
-    "main.2cb95a9a.js.map": "/electricity_pay_app/static/js/main.2cb95a9a.js.map",
+    "main.e27522ce.css.map": "/electricity_pay_app/static/css/main.e27522ce.css.map",
+    "main.e79cf839.js.map": "/electricity_pay_app/static/js/main.e79cf839.js.map",
     "453.a4eb3c8e.chunk.js.map": "/electricity_pay_app/static/js/453.a4eb3c8e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33533dce.css",
-    "static/js/main.2cb95a9a.js"
+    "static/css/main.e27522ce.css",
+    "static/js/main.e79cf839.js"
   ]
 }
