@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/electricity_pay_app/precache-manifest.3e9563f4ca731cf3a33336687b805333.js"
+  "/electricity_pay_app/precache-manifest.b316fa35bc3cf30cd4e0c4592b7c34e0.js"
 );
 
 self.addEventListener('message', (event) => {

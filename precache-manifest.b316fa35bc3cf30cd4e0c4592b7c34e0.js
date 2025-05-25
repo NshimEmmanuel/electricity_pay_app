@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2560ef179b5a96c3570e810eeff18818",
+    "revision": "f41643a08066b4d9828607d0764cfd78",
     "url": "/electricity_pay_app/index.html"
   },
   {
-    "revision": "a14af74062ccbf7ff860",
+    "revision": "afcaaaa32b880ec7b8d1",
     "url": "/electricity_pay_app/static/css/main.52623ab5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/electricity_pay_app/static/js/3.e61b46cf.chunk.js"
   },
   {
-    "revision": "a14af74062ccbf7ff860",
-    "url": "/electricity_pay_app/static/js/main.b533f791.chunk.js"
+    "revision": "afcaaaa32b880ec7b8d1",
+    "url": "/electricity_pay_app/static/js/main.a83accbb.chunk.js"
   },
   {
     "revision": "698be0b5cc45898410ee",
