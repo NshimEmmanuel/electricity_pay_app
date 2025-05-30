@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/electricity_pay_app/static/css/main.dec1d49f.css",
-    "main.js": "/electricity_pay_app/static/js/main.d3c72393.js",
-    "static/js/453.a4eb3c8e.chunk.js": "/electricity_pay_app/static/js/453.a4eb3c8e.chunk.js",
+    "main.css": "/electricity_pay_app/static/css/main.52623ab5.chunk.css",
+    "main.js": "/electricity_pay_app/static/js/main.6e278b59.chunk.js",
+    "main.js.map": "/electricity_pay_app/static/js/main.6e278b59.chunk.js.map",
+    "runtime-main.js": "/electricity_pay_app/static/js/runtime-main.5dc5070e.js",
+    "runtime-main.js.map": "/electricity_pay_app/static/js/runtime-main.5dc5070e.js.map",
+    "static/js/2.1b6baee6.chunk.js": "/electricity_pay_app/static/js/2.1b6baee6.chunk.js",
+    "static/js/2.1b6baee6.chunk.js.map": "/electricity_pay_app/static/js/2.1b6baee6.chunk.js.map",
+    "static/js/3.e61b46cf.chunk.js": "/electricity_pay_app/static/js/3.e61b46cf.chunk.js",
+    "static/js/3.e61b46cf.chunk.js.map": "/electricity_pay_app/static/js/3.e61b46cf.chunk.js.map",
     "index.html": "/electricity_pay_app/index.html",
-    "main.dec1d49f.css.map": "/electricity_pay_app/static/css/main.dec1d49f.css.map",
-    "main.d3c72393.js.map": "/electricity_pay_app/static/js/main.d3c72393.js.map",
-    "453.a4eb3c8e.chunk.js.map": "/electricity_pay_app/static/js/453.a4eb3c8e.chunk.js.map"
+    "precache-manifest.caa27eb39b5b1a8416e61cce338c07d7.js": "/electricity_pay_app/precache-manifest.caa27eb39b5b1a8416e61cce338c07d7.js",
+    "service-worker.js": "/electricity_pay_app/service-worker.js",
+    "static/css/main.52623ab5.chunk.css.map": "/electricity_pay_app/static/css/main.52623ab5.chunk.css.map",
+    "static/js/2.1b6baee6.chunk.js.LICENSE.txt": "/electricity_pay_app/static/js/2.1b6baee6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/css/main.dec1d49f.css",
-    "static/js/main.d3c72393.js"
+    "static/js/runtime-main.5dc5070e.js",
+    "static/js/2.1b6baee6.chunk.js",
+    "static/css/main.52623ab5.chunk.css",
+    "static/js/main.6e278b59.chunk.js"
   ]
 }
