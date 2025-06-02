@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/electricity_pay_app/static/css/main.52623ab5.chunk.css",
-    "main.js": "/electricity_pay_app/static/js/main.6e278b59.chunk.js",
-    "main.js.map": "/electricity_pay_app/static/js/main.6e278b59.chunk.js.map",
-    "runtime-main.js": "/electricity_pay_app/static/js/runtime-main.5dc5070e.js",
-    "runtime-main.js.map": "/electricity_pay_app/static/js/runtime-main.5dc5070e.js.map",
+    "main.css": "/electricity_pay_app/static/css/main.a3a13cfc.chunk.css",
+    "main.js": "/electricity_pay_app/static/js/main.8b64c326.chunk.js",
+    "main.js.map": "/electricity_pay_app/static/js/main.8b64c326.chunk.js.map",
+    "runtime-main.js": "/electricity_pay_app/static/js/runtime-main.673c15b6.js",
+    "runtime-main.js.map": "/electricity_pay_app/static/js/runtime-main.673c15b6.js.map",
     "static/js/2.1b6baee6.chunk.js": "/electricity_pay_app/static/js/2.1b6baee6.chunk.js",
     "static/js/2.1b6baee6.chunk.js.map": "/electricity_pay_app/static/js/2.1b6baee6.chunk.js.map",
-    "static/js/3.e61b46cf.chunk.js": "/electricity_pay_app/static/js/3.e61b46cf.chunk.js",
-    "static/js/3.e61b46cf.chunk.js.map": "/electricity_pay_app/static/js/3.e61b46cf.chunk.js.map",
+    "static/js/3.1abb1297.chunk.js": "/electricity_pay_app/static/js/3.1abb1297.chunk.js",
+    "static/js/3.1abb1297.chunk.js.map": "/electricity_pay_app/static/js/3.1abb1297.chunk.js.map",
     "index.html": "/electricity_pay_app/index.html",
-    "precache-manifest.caa27eb39b5b1a8416e61cce338c07d7.js": "/electricity_pay_app/precache-manifest.caa27eb39b5b1a8416e61cce338c07d7.js",
+    "precache-manifest.8c21969d9cf7b4423ff7e86eff87202a.js": "/electricity_pay_app/precache-manifest.8c21969d9cf7b4423ff7e86eff87202a.js",
     "service-worker.js": "/electricity_pay_app/service-worker.js",
-    "static/css/main.52623ab5.chunk.css.map": "/electricity_pay_app/static/css/main.52623ab5.chunk.css.map",
+    "static/css/main.a3a13cfc.chunk.css.map": "/electricity_pay_app/static/css/main.a3a13cfc.chunk.css.map",
     "static/js/2.1b6baee6.chunk.js.LICENSE.txt": "/electricity_pay_app/static/js/2.1b6baee6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5dc5070e.js",
+    "static/js/runtime-main.673c15b6.js",
     "static/js/2.1b6baee6.chunk.js",
-    "static/css/main.52623ab5.chunk.css",
-    "static/js/main.6e278b59.chunk.js"
+    "static/css/main.a3a13cfc.chunk.css",
+    "static/js/main.8b64c326.chunk.js"
   ]
 }
