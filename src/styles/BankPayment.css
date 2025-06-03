@@ -1,0 +1,186 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #1565c0; /* Blue background */
+}
+
+.bank-payment-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+.bank-payment-box {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  max-width: 880px;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  transition: box-shadow 0.3s ease;
+}
+
+.bank-payment-box:hover {
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.15);
+}
+
+.bank-payment-image {
+  flex: 1;
+  background-color: #f8f8f8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.bank-payment-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.bank-payment-form {
+  flex: 1;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.bank-payment-form h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.bank-payment-form form {
+  display: flex;
+  flex-direction: column;
+}
+
+.bank-payment-form input {
+  margin-bottom: 1.2rem;
+  padding: 0.9rem 1rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  transition: border 0.3s ease, box-shadow 0.3s ease;
+}
+
+.bank-payment-form input:focus {
+  outline: none;
+  border-color: #3f3f3f;
+  box-shadow: 0 0 0 3px rgba(63, 63, 63, 0.1);
+}
+
+.bank-payment-form .date-cvc {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 1.2rem;
+}
+
+.bank-payment-form .date-box {
+  flex: 1;
+  padding: 0.9rem;
+  background-color: #e9ecef;
+  border-radius: 8px;
+  font-size: 1rem;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #333;
+}
+
+.bank-payment-form .date-cvc input {
+  flex: 1;
+}
+
+/* Primary action button: green */
+.bank-payment-form button {
+  padding: 0.9rem;
+  font-size: 1rem;
+  background-color: #2ecc40; /* Green */
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.bank-payment-form button:hover {
+  background-color: #27ae60; /* Darker green */
+}
+
+/* Secondary button (if any, e.g., type="button") */
+.bank-payment-form button[type="button"] {
+  background-color: #1e9646;
+  margin-top: 0.7rem;
+}
+
+.bank-payment-form button[type="button"]:hover {
+  background-color: #186a36;
+}
+
+/* Responsive layout */
+@media (max-width: 768px) {
+  .bank-payment-box {
+    flex-direction: column;
+  }
+  .bank-payment-image {
+    padding: 1.5rem 0;
+  }
+}
+
+.success-message {
+  margin-top: 20px;
+  color: #7d0e39;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+}
+
+/* Modal Styles */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background: white;
+  padding: 20px 30px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.modal-buttons button {
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #2ecc40; /* Green */
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+
+.modal-buttons button:hover {
+  background-color: #27ae60; /* Darker green */
+}

@@ -1,0 +1,138 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #1565c0; /* Blue background */
+}
+
+.momo-payment-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+.momo-payment-box {
+  background-color: #ffffff;
+  padding: 2rem;
+  border-radius: 16px;
+  width: 100%;
+  max-width: 420px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+}
+
+.momo-payment-box:hover {
+  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.15);
+}
+
+.momo-payment-box h2 {
+  text-align: center;
+  margin-bottom: 1.8rem;
+  color: #333;
+  font-size: 1.6rem;
+}
+
+.momo-payment-box form {
+  display: flex;
+  flex-direction: column;
+}
+
+.momo-payment-box input {
+  margin-bottom: 1.2rem;
+  padding: 0.9rem 1rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  transition: border 0.3s ease, box-shadow 0.3s ease;
+}
+
+.momo-payment-box input:focus {
+  outline: none;
+  border-color: #3f3f3f;
+  box-shadow: 0 0 0 3px rgba(63, 63, 63, 0.1);
+}
+
+/* Primary action button: green */
+.momo-payment-box button {
+  padding: 0.9rem;
+  font-size: 1rem;
+  background-color: #2ecc40; /* Green */
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 0.5rem;
+  transition: background-color 0.3s ease;
+}
+
+.momo-payment-box button:hover {
+  background-color: #27ae60; /* Darker green */
+}
+
+/* Secondary button (if any, e.g., type="button") */
+.momo-payment-box button[type="button"] {
+  background-color: #1e9646;
+  margin-top: 0.7rem;
+}
+
+.momo-payment-box button[type="button"]:hover {
+  background-color: #186a36;
+}
+
+/* Modal Overlay (background) */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+}
+
+/* Modal Content */
+.modal-content {
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+  max-width: 400px;
+  width: 80%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Modal Buttons */
+.modal-buttons {
+  margin-top: 20px;
+}
+
+.modal-buttons button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: #2ecc40;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+}
+
+.modal-buttons button:hover {
+  background-color: #27ae60;
+}
+
+.success-message {
+  margin-top: 20px;
+  color: rgb(233, 207, 7);
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+}
