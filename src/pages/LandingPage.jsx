@@ -154,7 +154,7 @@ const LandingPage = () => {
       {/* Header */}
       <header className="landing-header">
         <div className="landing-logo">
-          {emojiSpan("⚡", "lightning")} PowerPay
+          {emojiSpan("⚡", "lightning")} PowerToken
         </div>
         <nav className="landing-nav">
           <ul className="landing-nav-links">
@@ -172,7 +172,7 @@ const LandingPage = () => {
           <div className="landing-hero-content">
             <h1>Pay Your Electricity Bills Instantly</h1>
             <p>
-              Fast, secure, and hassle-free electricity bill payments at your fingertips.<br />
+              Tap,Pay,Light with Fast,secure and remotely generated tokens direct to your meter at your fingertips .<br />
               Never miss a payment again!
             </p>
             <button
@@ -194,7 +194,7 @@ const LandingPage = () => {
       {/* Features */}
       <section id="features" className="landing-section landing-features">
         <div className="container">
-          <h2 className="landing-section-title">Why Choose PowerPay?</h2>
+          <h2 className="landing-section-title">Why Choose PowerToken?</h2>
           <div className="landing-features-grid">
             {features.map((f, i) => (
               <div key={i} className="landing-feature-card">
@@ -228,7 +228,7 @@ const LandingPage = () => {
       {/* Benefits */}
       <section id="benefits" className="landing-section landing-benefits">
         <div className="container">
-          <h2 className="landing-section-title" style={{ color: "#fff" }}>Benefits of PowerPay</h2>
+          <h2 className="landing-section-title" style={{ color: "#fff" }}>Benefits of PowerToken</h2>
           <div className="landing-benefits-grid">
             {benefits.map((b, i) => (
               <div key={i} className="landing-benefit-card">
@@ -249,7 +249,7 @@ const LandingPage = () => {
       <section id="download" className="landing-section landing-cta">
         <div className="container">
           <h2>Ready to Simplify Your Bill Payments?</h2>
-          <p>Join millions of users who trust PowerPay for their electricity bill payments</p>
+          <p>Join smart users who trust PowerToken for electricity bill payments</p>
           <button className="landing-green-btn" onClick={() => navigate("/signup")}>
             Get Started Today
           </button>
@@ -278,7 +278,7 @@ const LandingPage = () => {
       <footer className="landing-footer">
         <div className="container landing-footer-content">
           <div>
-            <h3>PowerPay</h3>
+            <h3>Power</h3>
             <p>Making electricity bill payments simple, fast, and secure for everyone.</p>
           </div>
           <div>
